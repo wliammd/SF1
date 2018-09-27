@@ -11,27 +11,85 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## R Markdown
 
-CHAPTER: Stains (IHC and Special) and Molecular Markers
+###CHAPTER: Stains (IHC and Special) and Molecular Markers
 
-SECTION: Stains and Molecular Markers by Subspecialty = Pituitary stains
+###SECTION: Stains and Molecular Markers by Subspecialty = Pituitary stains
 
-STAIN: SF-1
+###STAIN: SF-1
+
+###Definition/general:
+* Member of the steroid receptor superfamily of genes; encodes a transcription factor that regulates cytochrome P450 genes (CYP11A and CYP11B)
+* Found in anterior pituitary cells containing gonadotropins luteinizing hormone (LH) or follicle-stimulating hormone (FSH), but not in other adenohypophyseal cell types (ref).
+* Gonadotroph adenomas comprise the largest category of pituitary adenomas
+
+###Essential features:
+
+*	Strong nuclear staining is observed within gonadotrophs, pituitary adenomas that develop along this line of differentiation and in other (non-pituitary) tumors that express SF-1.
 
 
-This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+###Terminology:
 
-When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
+*	Pituitary adenoma = “pituitary neuroendocrine tumor”  (PitNET) in 2017 proposal (ref Asa 2017)
 
-```{r cars}
-summary(cars)
-```
 
-## Including Plots
+###Pathophysiology:
+*	Pituitary adenomas reflect anterior pituitary development
+*	And as follows
 
-You can also embed plots, for example:
 
-```{r pressure, echo=FALSE}
-plot(pressure)
-```
+###Clinical features: 
+*	Clinical features are as follows
+*	And as follows
 
-Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
+
+###Uses for Pathologists:
+*	Useful for diagnosis of gonadotroph adenomas (1, 2). 
+*	More sensitive than antibodies to LH and FSH (ref. 
+*	Also present within normal anterior pituitary gland, so the presence of pituitary adenoma must be confirmed on H&E stains (occasionally with the support of ancillary stains such as reticulin stains for normal adenohypophyseal architecture). 
+*	Also a sensitive marker of sex cord stromal tumors of the ovary (3-5), and can be used to distinguish these tumors from other types of ovarian tumor.
+
+###Prognostic Factors:
+
+*	Adenoma type is considered a prognostic factor
+*	
+
+###Interpretation: 
+
+
+###Micro description:
+
+
+###Micro images:
+
+
+###Virtual slides:
+
+
+###Positive stains :
+
+
+###Negative stains:
+
+
+
+###Molecular / cytogenetics descriptions:
+NA
+
+###Molecular / cytogenetics images:
+NA
+
+###Additional references:
+1.	Asa SL, Bamberger AM, Cao B, Wong M, Parker KL, Ezzat S. The transcription activator steroidogenic factor-1 is preferentially expressed in the human pituitary gonadotroph. J Clin Endocrinol Metab. 1996;81(6):2165-70.
+2.	Luo X, Ikeda Y, Parker KL. A cell-specific nuclear receptor is essential for adrenal and gonadal development and sexual differentiation. Cell. 1994;77(4):481-90.
+3.	Rabban JT, Zaloudek CJ. A practical approach to immunohistochemical diagnosis of ovarian germ cell tumours and sex cord-stromal tumours. Histopathology. 2013;62(1):71-88. doi: 10.1111/his.12052.
+4.	Zhao C, Barner R, Vinh TN, McManus K, Dabbs D, Vang R. SF-1 is a diagnostically useful immunohistochemical marker and comparable to other sex cord-stromal tumor markers for the differential diagnosis of ovarian sertoli cell tumor. Int J Gynecol Pathol. 2008;27(4):507-14. doi: 10.1097/PGP.0b013e31817c1b0a.
+5.	Zhao C, Vinh TN, McManus K, Dabbs D, Barner R, Vang R. Identification of the most sensitive and robust immunohistochemical markers in different categories of ovarian sex cord-stromal tumors. Am J Surg Pathol. 2009;33(3):354-66. doi: 10.1097/PAS.0b013e318188373d.
+
+
+###Board Review Question(s)
+
+
+###Board Review Answer(s)
+
+
+
