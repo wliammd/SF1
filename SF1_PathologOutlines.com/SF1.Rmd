@@ -15,18 +15,19 @@ bibliography: bibliography.bib
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-## R Markdown
-
 ###CHAPTER: Stains (IHC and Special) and Molecular Markers
 
 ###SECTION: Stains and Molecular Markers by Subspecialty = Pituitary stains
 
 ###STAIN: SF-1
 
+***
+
 ###Definition/general:
-* Member of the steroid receptor superfamily of genes; encodes a transcription factor that regulates cytochrome P450 genes (CYP11A and CYP11B)
-* Found in anterior pituitary cells containing gonadotropins luteinizing hormone (LH) or follicle-stimulating hormone (FSH), but not in other adenohypophyseal cell types (ref).
-* Gonadotroph adenomas comprise the largest category of pituitary adenomas
+* Member of the steroid receptor superfamily; a transcription factor that regulates cytochrome P450 genes
+* Found in anterior pituitary cells containing gonadotropins which produce luteinizing hormone (LH) or follicle-stimulating hormone (FSH), but not in other adenohypophyseal cell types (Asa 1996ref).
+* Gonadotroph adenomas comprise the largest category of pituitary adenomas (ref McDonald 2017, Mete 2018)
+*Also found within adrenal cortex, granulosa and theca cells of the ovary and Leydig cells of the testis 
 
 ###Essential features:
 *	Strong nuclear staining is observed within gonadotrophs, pituitary adenomas that develop along this line of differentiation and in other (non-pituitary) tumors that express SF-1.
@@ -36,11 +37,11 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ###Pathophysiology:
 *	Pituitary adenomas reflect anterior pituitary development
-*	And as follows
+*	LH and FSH immunostains also mark gonadotroph adenomas, but are much less sensitive (althought quite specific) for gonadotroph adenomas (ref Mete 2018)
 
 ###Clinical features: 
-*	Clinical features are as follows
-*	And as follows
+*	Most gonadotroph adenomas are hormonally silent
+*	Frequently present as macroadenomas (that is, > 1 cm)
 
 ###Uses for Pathologists:
 *	Useful for diagnosis of gonadotroph adenomas (1, 2). 
@@ -62,10 +63,16 @@ knitr::opts_chunk$set(echo = TRUE)
 ###Virtual slides:
 
 
-###Positive stains :
+###Positive staining (normal):
+* Scattered gonadotrophs in normal adenohypophysis
 
+###Positive staining (tumors):
+* Gonadotroph pituitary adenomas
+* Rare plurihormonal pituitary adenomas
 
-###Negative stains:
+###Negative staining (normal):
+* Corticotrophs, Pit-1 family adenohypophysial cells (producing prolactin, growth hormone, TSH)
+* Pituitary adenomas in the Pit-1 family, corticotroph family
 
 ###Molecular / cytogenetics descriptions:
 NA
@@ -81,9 +88,14 @@ NA
 5.	Zhao C, Vinh TN, McManus K, Dabbs D, Barner R, Vang R. Identification of the most sensitive and robust immunohistochemical markers in different categories of ovarian sex cord-stromal tumors. Am J Surg Pathol. 2009;33(3):354-66. doi: 10.1097/PAS.0b013e318188373d.
 
 ###Board Review Question(s)
-
+A 57-year-old male presents with bitemporal hemianopsia, mildly elevated serum prolactin and MRI showing a 2.5 cm mass within the sella turcica, which is noted to extend upward and push on the optic chiasm. Physical examination reveals no signs of hormone excess (no evidence of gynecomastia, galactorrhea, Cushing's syndrome, acromegaly, etc.) and formal visual field testing confirms decreased vision in the outer half of the visual fields. Transsphenoidal resection confirms pituitary adenoma by routine stains. The adenoma shows the following immunoreactivity: SF-1 positive, Pit-1 negative, ACTH negative. 
+How is this adenoma best classified?
+A. Prolactinoma
+B. Corticotroph adenoma
+C. Gonadotroph adenoma
+D. Null cell adenoma
 
 ###Board Review Answer(s)
-
+C. Gonadotroph adenoma. Absence of signs of hormone excess is the usual finding in gonadotroph adenoma. A small rise in prolactin can be seen in association with any lesion of the sella turcica that impinges on the stalk of the pituitary, interupting dopaminergic inhibition of prolactin cell production in the non-neoplastic anterior pituitary gland. SF-1 IHC is the most sensitive and specific means of classifying gonadotroph adenoma. 
 
 
