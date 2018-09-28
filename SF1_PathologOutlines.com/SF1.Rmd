@@ -37,7 +37,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ###Pathophysiology:
 *	Pituitary adenomas reflect anterior pituitary development
-*	LH and FSH immunostains also mark gonadotroph adenomas, but are much less sensitive (althought quite specific) for gonadotroph adenomas (ref Mete 2018)
+*	LH and FSH immunostains also mark gonadotroph adenomas, but are much less sensitive (althought quite specific) for gonadotroph adenomas (ref Mete 2018)[link](https://www.ncbi.nlm.nih.gov/pubmed?term=2018%5Bpdat%5D+AND+Mete%2C+Ozgur%5Bauthor%5D+AND+epidemiology+and+biomarker&TransSchema=title&cmd=detailssearch)
 
 ###Clinical features: 
 *	Most gonadotroph adenomas are hormonally silent
