@@ -25,8 +25,8 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ###Definition/general:
 * Member of the steroid receptor superfamily; a transcription factor that regulates cytochrome P450 genes
-* Found in anterior pituitary cells containing gonadotropins which produce luteinizing hormone (LH) or follicle-stimulating hormone (FSH), but not in other adenohypophyseal cell types (Asa 1996ref).
-* Gonadotroph adenomas comprise the largest category of pituitary adenomas (ref McDonald 2017, Mete 2018)
+* Found in anterior pituitary cells containing gonadotropins which produce luteinizing hormone (LH) or follicle-stimulating hormone (FSH), but not in other adenohypophyseal cell types [(J Clin Endocrinol Metab 1996;81:2165)](https://www.ncbi.nlm.nih.gov/pubmed?term=%22The+Journal+of+clinical+endocrinology+and+metabolism%22%5BJour%5D+AND+2165%5Bpage%5D+AND+1996%5Bpdat%5D&cmd=detailssearch).
+* Gonadotroph adenomas comprise the largest category of pituitary adenomas (ref McDonald 2017, Mete 2018) [(Arch Pathol Lab Med 2017;141:104,](https://www.ncbi.nlm.nih.gov/pubmed?term=%22Archives+of+pathology+%26+laboratory+medicine%22%5BJour%5D+AND+2017%5Bpdat%5D+AND+McDonald%5Bauthor%5D+AND+Steroidogenic&TransSchema=title&cmd=detailssearch) [ Mod Pathol 2018;31:900)](https://www.ncbi.nlm.nih.gov/pubmed?term=2018%5Bpdat%5D+AND+Mete%2C+Ozgur%5Bauthor%5D+AND+epidemiology+and+biomarker&TransSchema=title&cmd=detailssearch)
 *Also found within adrenal cortex, granulosa and theca cells of the ovary and Leydig cells of the testis 
 
 ###Essential features:
@@ -45,7 +45,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ###Uses for Pathologists:
 *	Useful for diagnosis of gonadotroph adenomas (1, 2). 
-*	More sensitive than antibodies to LH and FSH (ref. 
+*	More sensitive than antibodies to LH and FSH [(Mod Pathol 2018;31:900)](https://www.ncbi.nlm.nih.gov/pubmed?term=2018%5Bpdat%5D+AND+Mete%2C+Ozgur%5Bauthor%5D+AND+epidemiology+and+biomarker&TransSchema=title&cmd=detailssearch) 
 *	Also present within normal anterior pituitary gland, so the presence of pituitary adenoma must be confirmed on H&E stains (occasionally with the support of ancillary stains such as reticulin stains for normal adenohypophyseal architecture). 
 *	Also a sensitive marker of sex cord stromal tumors of the ovary (3-5), and can be used to distinguish these tumors from other types of ovarian tumor.
 
