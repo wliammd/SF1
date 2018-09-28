@@ -33,11 +33,11 @@ knitr::opts_chunk$set(echo = TRUE)
 *	Strong nuclear staining is observed within gonadotrophs, pituitary adenomas that develop along this line of differentiation and in other (non-pituitary) tumors that express SF-1.
 
 ###Terminology:
-*	Pituitary adenoma = “pituitary neuroendocrine tumor”  (PitNET) in 2017 proposal (ref Asa 2017)
+*	Pituitary adenoma = “pituitary neuroendocrine tumor”  (PitNET) in 2017 proposal [(Endocr Relat Cancer 2017;24:C5)](https://www.ncbi.nlm.nih.gov/pubmed?term=2017%5Bpdat%5D+AND+Asa+S%5Bauthor%5D+AND+from+pituitary+adenoma&TransSchema=title&cmd=detailssearch)
 
 ###Pathophysiology:
 *	Pituitary adenomas reflect anterior pituitary development
-*	LH and FSH immunostains also mark gonadotroph adenomas, but are much less sensitive (althought quite specific) for gonadotroph adenomas (ref Mete 2018)[link](https://www.ncbi.nlm.nih.gov/pubmed?term=2018%5Bpdat%5D+AND+Mete%2C+Ozgur%5Bauthor%5D+AND+epidemiology+and+biomarker&TransSchema=title&cmd=detailssearch)
+*	LH and FSH immunostains also mark gonadotroph adenomas, but are much less sensitive (althought quite specific) for gonadotroph adenomas [(Mod Pathol 2018;31:900)](https://www.ncbi.nlm.nih.gov/pubmed?term=2018%5Bpdat%5D+AND+Mete%2C+Ozgur%5Bauthor%5D+AND+epidemiology+and+biomarker&TransSchema=title&cmd=detailssearch)
 
 ###Clinical features: 
 *	Most gonadotroph adenomas are hormonally silent
