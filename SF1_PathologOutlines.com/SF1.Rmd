@@ -37,6 +37,8 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ###Pathophysiology:
 *	Pituitary adenomas reflect anterior pituitary development
+* Three families are present:
+![](photos/Slide1.jpeg)
 *	LH and FSH immunostains also mark gonadotroph adenomas, but are much less sensitive (althought quite specific) for gonadotroph adenomas [(Mod Pathol 2018;31:900)](https://www.ncbi.nlm.nih.gov/pubmed?term=2018%5Bpdat%5D+AND+Mete%2C+Ozgur%5Bauthor%5D+AND+epidemiology+and+biomarker&TransSchema=title&cmd=detailssearch)
 
 ###Clinical features: 
