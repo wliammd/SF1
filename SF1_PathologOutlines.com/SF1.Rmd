@@ -27,7 +27,7 @@ knitr::opts_chunk$set(echo = TRUE)
 * Member of the steroid receptor superfamily; a transcription factor that regulates cytochrome P450 genes
 * Found in anterior pituitary cells containing gonadotropins which produce luteinizing hormone (LH) or follicle-stimulating hormone (FSH), but not in other adenohypophyseal cell types [(J Clin Endocrinol Metab 1996;81:2165)](https://www.ncbi.nlm.nih.gov/pubmed/8964846).
 * Gonadotroph adenomas comprise the largest category of pituitary adenomas [(Arch Pathol Lab Med 2017;141:104,](https://www.ncbi.nlm.nih.gov/pubmed/27227698) [ Mod Pathol 2018;31:900)](https://www.ncbi.nlm.nih.gov/pubmed/29434339)
-*Also found within adrenal cortex, granulosa and theca cells of the ovary and Leydig cells of the testis 
+* Also found within adrenal cortex, granulosa and theca cells of the ovary and Leydig cells of the testis 
 
 ###Essential features:
 *	Strong nuclear staining is observed within gonadotrophs, pituitary adenomas that develop along this line of differentiation and in other (non-pituitary) tumors that express SF-1.
@@ -56,7 +56,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ###Prognostic Factors:
 *	Adenoma type is considered a prognostic factor
-* Gonadotroph adenoma is felt to be relatively more indolent than some other types of nonfunctioning adenoma [(Expert Rev Endocrinol Metab 2016;11:149)](https://www.ncbi.nlm.nih.gov/pubmed/30058871)
+* Gonadotroph adenoma is felt to be more indolent than some other types of nonfunctioning adenoma [(Expert Rev Endocrinol Metab 2016;11:149)](https://www.ncbi.nlm.nih.gov/pubmed/30058871)
 *	Radiographic extent and adenoma classification are considered prognostic indicators. "High risk pituitary adenomas" include sparsely granulated somatotroph adenoma, lactotroph adenoma in men, Crooke's cell adenoma, silent corticotroph adenoma and plurihormonal Pit-1-positive adenoma 
 * The category of "atypical adenoma" was not reproducible, so was removed from WHO classification [(Endocrin Pathol 2017;28:228)](https://www.ncbi.nlm.nih.gov/pubmed/28766057)
 
@@ -65,29 +65,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 * SF-1 immunoreactivity in anterior pituitary gland (that is, non-neoplastic anterior pituitary) shows moderate-strong nuclear staining is scattered adenohypophysis cells; gonadotrophs are a minority population within the adenohypophysis
 
-###Micro description:
-
-
-###Micro images:
-![](photos/gonadotroph_HE.jpg)
-
-> Figure. H&E. Gonadotroph adenoma. Monomorphous cells with pale cytoplasm, oval nuclei, and finely disbursed, stippled chromatin.
-
-![](photos/SF1_gonadotrophs.jpg)
-
-> Figure. SF-1 IHC. Gonadotroph adenoma. Strong, diffuse *nuclear* staining.
-
-![](photos/ACTH_IHC.jpg)
-
-> Figure. ACTH IHC. Gonadotroph adenoma. Negative staining.
-
-![](photos/Pit1_IHC_cytoplasm_only_staining.jpg)
-
-> Figure. Pit-1 IHC. Gonadotroph adenoma. Only cytoplasmic staining is noted, hence, this is considered a negative stain. See below for Pit-1 family adenoma with positive staining. 
-
-  ![](photos/Pit1_IHC_positive_control_staining.jpg)
-
-> Figure. Pit-1 IHC. Pit-1 family member adenoma. In the setting of significant cytoplasmic background staining, his degree of nuclear immunoreactivity is necessary for unambiguous designation as positive. 
+###Microscopic (histologic) images: normal adenohypophysis
 
   ![](photos/HE.NormalAntPit.jpg)
   
@@ -101,6 +79,25 @@ knitr::opts_chunk$set(echo = TRUE)
   
   > Figure. SF-1 IHC. Strongly immunoreactive gonadotroph cells are scattered through normal (that is, *non-neoplastic*) anterior pituitary gland. 
 
+
+###Microscopic (histologic) images: gonadotroph adenoma
+![](photos/gonadotroph_HE.jpg)
+
+> Figure. H&E. Gonadotroph adenoma. Monomorphous cells with pale cytoplasm, oval nuclei, and finely disbursed, stippled chromatin.
+
+![](photos/SF1_gonadotrophs.jpg)
+
+> Figure. SF-1 IHC. Gonadotroph adenoma. Strong, diffuse *nuclear* staining.
+
+![](photos/ACTH_IHC.jpg)
+
+> Figure. ACTH IHC. Gonadotroph adenoma. Negative staining.
+
+
+  ![](photos/Pit1_IHC_withPosContrl.jpg)
+  
+> Figure. Pit-1 IHC. Gonadotroph adenoma. Only cytoplasmic staining is noted, hence, this is considered a negative stain. Inset shows Pit-1 family adenoma with strong nuclear staining. 
+
 ###Positive staining (normal):
 * Scattered gonadotrophs in normal adenohypophysis[(J Clin Endocrinol Metab 1996;81:2165)](https://www.ncbi.nlm.nih.gov/pubmed/8964846)
 * Adrenal cortex [(Cell 1994;77:481)](https://www.ncbi.nlm.nih.gov/pubmed/%208187173)
@@ -108,7 +105,7 @@ knitr::opts_chunk$set(echo = TRUE)
 ###Positive staining (tumors):
 * Gonadotroph pituitary adenomas
 * Rare plurihormonal pituitary adenomas
-* Sex cord-stromal tumors [(Histopathology 2013;62:71,](https://www.ncbi.nlm.nih.gov/pubmed/23240671), [Int J Gynecol Pathol. 2008;27(4):507](https://www.ncbi.nlm.nih.gov/pubmed/18753972), [Am J Surg Pathol 2009;33:354)](https://www.ncbi.nlm.nih.gov/pubmed/19033865)
+* Sex cord-stromal tumors [(Histopathology 2013;62:71](https://www.ncbi.nlm.nih.gov/pubmed/23240671), [Int J Gynecol Pathol. 2008;27(4):507](https://www.ncbi.nlm.nih.gov/pubmed/18753972), [Am J Surg Pathol 2009;33:354)](https://www.ncbi.nlm.nih.gov/pubmed/19033865)
 
 ###Negative staining (normal):
 * Corticotrophs, Pit-1 family adenohypophysial cells (producing prolactin, growth hormone, TSH)
@@ -123,6 +120,6 @@ C. Gonadotroph adenoma
 D. Null cell adenoma
 
 ###Board Review Answer(s)
-C. Gonadotroph adenoma. Absence of signs of hormone excess is the usual finding in gonadotroph adenoma. A small rise in prolactin can be seen in association with any lesion of the sella turcica that impinges on the stalk of the pituitary, interupting dopaminergic inhibition of prolactin cell production in the non-neoplastic anterior pituitary gland. SF-1 IHC is the most sensitive and specific means of classifying gonadotroph adenoma. 
+C. Gonadotroph adenoma. Absence of signs of hormone excess is the usual finding in gonadotroph adenoma. A small rise in prolactin can be seen in association with any lesion of the sella turcica that impinges on the stalk of the pituitary, interupting dopaminergic inhibition of lactotrophs in the non-neoplastic anterior pituitary gland. SF-1 IHC is the most sensitive and specific means of classifying gonadotroph adenoma. 
 
 
