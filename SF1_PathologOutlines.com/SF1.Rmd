@@ -25,12 +25,12 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ###Definition/general:
 * Member of the steroid receptor superfamily; a transcription factor that regulates cytochrome P450 genes
-* Found in anterior pituitary cells containing gonadotropins which produce luteinizing hormone (LH) or follicle-stimulating hormone (FSH), but not in other adenohypophyseal cell types [(J Clin Endocrinol Metab 1996;81:2165)](https://www.ncbi.nlm.nih.gov/pubmed/8964846).
+* Found in anterior pituitary gonadotrophs, which produce luteinizing hormone (LH) or follicle-stimulating hormone (FSH); not found in other adenohypophyseal cell types [(J Clin Endocrinol Metab 1996;81:2165)](https://www.ncbi.nlm.nih.gov/pubmed/8964846).
 * Gonadotroph adenomas comprise the largest category of pituitary adenomas [(Arch Pathol Lab Med 2017;141:104,](https://www.ncbi.nlm.nih.gov/pubmed/27227698) [ Mod Pathol 2018;31:900)](https://www.ncbi.nlm.nih.gov/pubmed/29434339)
 * Also found within adrenal cortex, granulosa and theca cells of the ovary and Leydig cells of the testis 
 
 ###Essential features:
-*	Strong nuclear staining is observed within gonadotrophs, pituitary adenomas that develop along this line of differentiation and in other (non-pituitary) tumors that express SF-1.
+*	Strong nuclear staining is observed within gonadotrophs, pituitary adenomas that develop along this line of differentiation and in other (non-pituitary) tumors that express SF-1
 
 ###Terminology:
 *	Pituitary adenoma = “pituitary neuroendocrine tumor”  (PitNET) in 2017 proposal [(Endocr Relat Cancer 2017;24:C5)](https://www.ncbi.nlm.nih.gov/pubmed/28264912)
@@ -40,9 +40,11 @@ knitr::opts_chunk$set(echo = TRUE)
 * Three families are present:
 ![](photos/Slide1.jpeg)
 
-> Figure. Three families of anterior pituitary cell are distinguished by transcription factor expression [(Arch Pathol Lab Med 2008;132:1231)](https://www.ncbi.nlm.nih.gov/pubmed/18684022), as illustrated above. 
+> Three families of anterior pituitary cell are distinguished by transcription factor expression [(Arch Pathol Lab Med 2008;132:1231)](https://www.ncbi.nlm.nih.gov/pubmed/18684022), as illustrated above. 
 
 *	LH and FSH immunostains also mark gonadotroph adenomas, but are much less sensitive (althought quite specific) for gonadotroph adenomas [(Mod Pathol 2018;31:900)](https://www.ncbi.nlm.nih.gov/pubmed/29434339)
+
+* Some labs use alpha subunit of glycoprotein hormones or estrogen receptors to supplement gonadotroph tumor workup, but these lack both sensitivity and specificity [(Mod Pathol 2018;31:900)](https://www.ncbi.nlm.nih.gov/pubmed/29434339)
 
 ###Clinical features: 
 *	Most gonadotroph adenomas are hormonally silent
@@ -51,11 +53,11 @@ knitr::opts_chunk$set(echo = TRUE)
 ###Uses for Pathologists:
 *	Useful for diagnosis of gonadotroph adenomas [(Arch Pathol Lab Med 2017;141:104,](https://www.ncbi.nlm.nih.gov/pubmed/27227698) [ Mod Pathol 2018;31:900)](https://www.ncbi.nlm.nih.gov/pubmed/29434339) 
 *	More sensitive than antibodies to LH and FSH [(Mod Pathol 2018;31:900)](https://www.ncbi.nlm.nih.gov/pubmed/29434339) 
-*	Also present within normal anterior pituitary gland, so the presence of pituitary adenoma must be confirmed on H&E stains (occasionally with the support of ancillary stains such as reticulin stains for normal adenohypophyseal architecture). 
-*	Also a sensitive marker of sex cord stromal tumors of the ovary, and can be used to distinguish these tumors from other types of ovarian tumor.
+*	Also present within normal anterior pituitary gland, so the presence of pituitary adenoma must be confirmed on H&E stains (occasionally with the support of ancillary stains such as reticulin stains for normal adenohypophyseal architecture)
+*	Also a sensitive marker of sex cord stromal tumors of the ovary, and can be used to distinguish these tumors from other types of ovarian tumor
 
 ###Prognostic Factors:
-*	Adenoma type is considered a prognostic factor
+*	Pituitary adenoma type is considered a prognostic factor
 * Gonadotroph adenoma is felt to be more indolent than some other types of nonfunctioning adenoma [(Expert Rev Endocrinol Metab 2016;11:149)](https://www.ncbi.nlm.nih.gov/pubmed/30058871)
 *	Radiographic extent and adenoma classification are considered prognostic indicators. "High risk pituitary adenomas" include sparsely granulated somatotroph adenoma, lactotroph adenoma in men, Crooke's cell adenoma, silent corticotroph adenoma and plurihormonal Pit-1-positive adenoma 
 * The category of "atypical adenoma" was not reproducible, so was removed from WHO classification [(Endocrin Pathol 2017;28:228)](https://www.ncbi.nlm.nih.gov/pubmed/28766057)
@@ -63,40 +65,40 @@ knitr::opts_chunk$set(echo = TRUE)
 ###Interpretation: 
 * SF-1 immunoreactivity in gonadotroph adenoma is typically diffuse, strong, and nuclear (score 7 or 8 in the Allred scale[(Mod Pathol 1998;11:155)](https://www.ncbi.nlm.nih.gov/pubmed/9504686)); see photomicrograph below
 
-* SF-1 immunoreactivity in anterior pituitary gland (that is, non-neoplastic anterior pituitary) shows moderate-strong nuclear staining is scattered adenohypophysis cells; gonadotrophs are a minority population within the adenohypophysis
+* SF-1 immunoreactivity in anterior pituitary gland (that is, non-neoplastic anterior pituitary) shows moderate-strong nuclear staining is scattered adenohypophysis cells; gonadotrophs are a *minority population* within the adenohypophysis
 
 ###Microscopic (histologic) images: normal adenohypophysis
 
   ![](photos/HE.NormalAntPit.jpg)
   
-  > Figure. H&E. Normal anterior pituitary. A mixture of cell types and a vague, irregular trabecular arrangement are apparent. 
+  > H&E. Normal anterior pituitary. A mixture of cell types and a vague, irregular trabecular arrangement are apparent. 
   
  ![](photos/retic.NormalAntPit.jpg)
  
- > Figure. Reticulin stain. Highlights trabecular arrangement of normal adenohypophysis. 
+ > Reticulin stain. Highlights trabecular arrangement of normal adenohypophysis. 
  
   ![](photos/SF1.NormalAntPit.jpg)
   
-  > Figure. SF-1 IHC. Strongly immunoreactive gonadotroph cells are scattered through normal (that is, *non-neoplastic*) anterior pituitary gland. 
+  > SF-1 IHC. Strongly immunoreactive gonadotroph cells are scattered through normal (that is, *non-neoplastic*) anterior pituitary gland. 
 
 
 ###Microscopic (histologic) images: gonadotroph adenoma
 ![](photos/gonadotroph_HE.jpg)
 
-> Figure. H&E. Gonadotroph adenoma. Monomorphous cells with pale cytoplasm, oval nuclei, and finely disbursed, stippled chromatin.
+> H&E. Gonadotroph adenoma. Monomorphous cells with pale cytoplasm, oval nuclei, and finely disbursed, stippled chromatin.
 
 ![](photos/SF1_gonadotrophs.jpg)
 
-> Figure. SF-1 IHC. Gonadotroph adenoma. Strong, diffuse *nuclear* staining.
+> SF-1 IHC. Gonadotroph adenoma. Strong, diffuse *nuclear* staining.
 
 ![](photos/ACTH_IHC.jpg)
 
-> Figure. ACTH IHC. Gonadotroph adenoma. Negative staining.
+> ACTH IHC. Gonadotroph adenoma. Negative staining.
 
 
   ![](photos/Pit1_IHC_withPosContrl.jpg)
   
-> Figure. Pit-1 IHC. Gonadotroph adenoma. Only cytoplasmic staining is noted, hence, this is considered a negative stain. Inset shows Pit-1 family adenoma with strong nuclear staining. 
+> Pit-1 IHC. Gonadotroph adenoma. Only cytoplasmic staining is noted, hence, this is considered a negative stain. Inset shows the positive control (a Pit-1 family adenoma) with strong nuclear staining. 
 
 ###Positive staining (normal):
 * Scattered gonadotrophs in normal adenohypophysis[(J Clin Endocrinol Metab 1996;81:2165)](https://www.ncbi.nlm.nih.gov/pubmed/8964846)
