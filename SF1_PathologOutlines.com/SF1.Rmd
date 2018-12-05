@@ -54,7 +54,7 @@ knitr::opts_chunk$set(echo = TRUE)
 *	Useful for diagnosis of gonadotroph adenomas [(Arch Pathol Lab Med 2017;141:104,](https://www.ncbi.nlm.nih.gov/pubmed/27227698) [ Mod Pathol 2018;31:900)](https://www.ncbi.nlm.nih.gov/pubmed/29434339) 
 *	More sensitive than antibodies to LH and FSH [(Mod Pathol 2018;31:900)](https://www.ncbi.nlm.nih.gov/pubmed/29434339) 
 *	Also present within normal anterior pituitary gland, so the presence of pituitary adenoma must be confirmed on H&E stains (occasionally with the support of ancillary stains such as reticulin stains for normal adenohypophyseal architecture)
-*	Also a sensitive marker of sex cord stromal tumors of the ovary, and can be used to distinguish these tumors from other types of ovarian tumor
+*	Also a sensitive and specific marker of sex cord stromal tumors of the ovary, and can be used to distinguish these tumors from other types of ovarian tumor [Int J Gynecol Pathol 2008;27:507](https://www.ncbi.nlm.nih.gov/pubmed/18753972) [Am J Surg Pathol 2009;33:354](https://www.ncbi.nlm.nih.gov/pubmed/19033865)
 
 ###Prognostic Factors:
 *	Pituitary adenoma type is considered a prognostic factor
