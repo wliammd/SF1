@@ -27,7 +27,7 @@ knitr::opts_chunk$set(echo = TRUE)
 * Member of the steroid receptor superfamily; a transcription factor that regulates cytochrome P450 genes
 * Found in anterior pituitary gonadotrophs, which produce luteinizing hormone (LH) or follicle-stimulating hormone (FSH); not found in other adenohypophyseal cell types [(J Clin Endocrinol Metab 1996;81:2165)](https://www.ncbi.nlm.nih.gov/pubmed/8964846).
 * Gonadotroph adenomas comprise the largest category of pituitary adenomas [(Arch Pathol Lab Med 2017;141:104,](https://www.ncbi.nlm.nih.gov/pubmed/27227698) [ Mod Pathol 2018;31:900)](https://www.ncbi.nlm.nih.gov/pubmed/29434339)
-* Also found within adrenal cortex, granulosa and theca cells of the ovary and Leydig cells of the testis; IHC used to detect adrenal cortical tumors [Hum Pathol 2013;44:822,](https://www.ncbi.nlm.nih.gov/pubmed/23158211) [ Appl Immunohistochem Mol Morphol 2013;20:141,](https://www.ncbi.nlm.nih.gov/pubmed/22553814) []() []() and sex cord-stromal tumors of the ovary []() []() [](), and testis []()
+* Also found within adrenal cortex, granulosa and theca cells of the ovary and Leydig cells of the testis 
 
 ###Essential features:
 *	Strong nuclear staining is observed within gonadotrophs, pituitary adenomas that develop along this line of differentiation and in other (non-pituitary) tumors that express SF-1
@@ -54,7 +54,10 @@ knitr::opts_chunk$set(echo = TRUE)
 *	Useful for diagnosis of gonadotroph adenomas [(Arch Pathol Lab Med 2017;141:104,](https://www.ncbi.nlm.nih.gov/pubmed/27227698) [ Mod Pathol 2018;31:900)](https://www.ncbi.nlm.nih.gov/pubmed/29434339) 
 *	More sensitive than antibodies to LH and FSH [(Mod Pathol 2018;31:900)](https://www.ncbi.nlm.nih.gov/pubmed/29434339) 
 *	Also present within normal anterior pituitary gland, so the presence of pituitary adenoma must be confirmed on H&E stains (occasionally with the support of ancillary stains such as reticulin stains for normal adenohypophyseal architecture)
-*	Also a sensitive and specific marker of sex cord stromal tumors of the ovary, and can be used to distinguish these tumors from other types of ovarian tumor [Int J Gynecol Pathol 2008;27:507](https://www.ncbi.nlm.nih.gov/pubmed/18753972) [Am J Surg Pathol 2009;33:354](https://www.ncbi.nlm.nih.gov/pubmed/19033865)
+*	Also a sensitive and specific marker of sex cord stromal tumors of the ovary, and can be used to distinguish these tumors from other types of ovarian tumor [(Int J Gynecol Pathol 2008;27:507,](https://www.ncbi.nlm.nih.gov/pubmed/18753972) [ Am J Surg Pathol 2009;33:354,](https://www.ncbi.nlm.nih.gov/pubmed/19033865)
+[ Int J Gynecol Pathol 2016;35:167,](https://www.ncbi.nlm.nih.gov/pubmed/26352548) [ Pathology 2016;48:434,](https://www.ncbi.nlm.nih.gov/pubmed/27311867) [ Int J Gynecol Pathol 2008;27:507)](https://www.ncbi.nlm.nih.gov/pubmed/18753972)
+* Also helpful in distinguishing adrenal cortical neoplasms from other tumor types [(Hum Pathol 2013;44:822,](https://www.ncbi.nlm.nih.gov/pubmed/23158211) [ Appl Immunohistochem Mol Morphol 2013;20:141,](https://www.ncbi.nlm.nih.gov/pubmed/22553814) [ Am J Surg Pathol 2010;34:423,](https://www.ncbi.nlm.nih.gov/pubmed/20154585) [ Am J Surg Pathol 2011;35:678,](https://www.ncbi.nlm.nih.gov/pubmed/21490444) [ J Clin Endocrinol Metab 2010 95:E161)](https://www.ncbi.nlm.nih.gov/pubmed/20660055)
+* Also useful in the setting of testicular tumors [(Am J Surg Pathol 2015;39:1159,](https://www.ncbi.nlm.nih.gov/pubmed/26076062) [ Appl Immunohistochem Mol Morphol 2013;21:318)](https://www.ncbi.nlm.nih.gov/pubmed/23165333)
 
 ###Prognostic Factors:
 *	Pituitary adenoma type is considered a prognostic factor
@@ -99,6 +102,14 @@ knitr::opts_chunk$set(echo = TRUE)
   ![](photos/Pit1_IHC_withPosContrl.jpg)
   
 > Pit-1 IHC. Gonadotroph adenoma. Only cytoplasmic staining is noted, hence, this is considered a negative stain. Inset shows the positive control (a Pit-1 family adenoma) with strong nuclear staining. 
+
+  ![](photos/S18-043745.pheochromocytoma.nlAdrenalCortexHE.100x.jpg)
+
+> H&E stain. Adrenal cortex is present in a band across the top half of the photomicrograph; pheochromocytoma is present at the bottom of the image. 
+
+  ![](photos/S18-043745.pheochromocytoma.nlAdrenalCortexSF1.100x.jpg)
+
+> SF-1 IHC stain. Adrenal cortex is present in a band across the top half of the photomicrograph; pheochromocytoma (negative for immunoreactivity) is present at the bottom of the image. 
 
 ###Positive staining (normal):
 * Scattered gonadotrophs in normal adenohypophysis[(J Clin Endocrinol Metab 1996;81:2165)](https://www.ncbi.nlm.nih.gov/pubmed/8964846)
