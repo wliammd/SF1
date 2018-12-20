@@ -27,7 +27,7 @@ knitr::opts_chunk$set(echo = TRUE)
 * Member of the steroid receptor superfamily; a transcription factor that regulates cytochrome P450 genes
 * Found in anterior pituitary gonadotrophs, which produce luteinizing hormone (LH) or follicle-stimulating hormone (FSH); not found in other adenohypophyseal cell types [(J Clin Endocrinol Metab 1996;81:2165)](https://www.ncbi.nlm.nih.gov/pubmed/8964846).
 * Gonadotroph adenomas comprise the largest category of pituitary adenomas [(Arch Pathol Lab Med 2017;141:104,](https://www.ncbi.nlm.nih.gov/pubmed/27227698) [ Mod Pathol 2018;31:900)](https://www.ncbi.nlm.nih.gov/pubmed/29434339)
-* Also found within adrenal cortex, granulosa and theca cells of the ovary and Leydig cells of the testis 
+* Also found within adrenal cortex, granulosa and theca cells of the ovary and Leydig cells of the testis; IHC used to detect adrenal cortical tumors [Hum Pathol 2013;44:822,](https://www.ncbi.nlm.nih.gov/pubmed/23158211) [ Appl Immunohistochem Mol Morphol 2013;20:141,](https://www.ncbi.nlm.nih.gov/pubmed/22553814) []() []() and sex cord-stromal tumors of the ovary []() []() [](), and testis []()
 
 ###Essential features:
 *	Strong nuclear staining is observed within gonadotrophs, pituitary adenomas that develop along this line of differentiation and in other (non-pituitary) tumors that express SF-1
