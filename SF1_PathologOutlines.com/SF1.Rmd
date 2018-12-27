@@ -3,10 +3,10 @@ title: "SF1page"
 author: "W. McDonald, MD"
 date: "12/21/2018"
 output:
+  word_document: default
+  pdf_document: default
   html_document:
     df_print: paged
-  pdf_document: default
-  word_document: default
 csl: vancouver.csl
 bibliography: bibliography.bib
 ---
@@ -17,8 +17,6 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ###CHAPTER: Stains (IHC and Special) and Molecular Markers
 
-###SECTION: Stains and Molecular Markers by Subspecialty = Pituitary stains
-
 ###STAIN: SF-1
 
 ***
@@ -26,10 +24,10 @@ knitr::opts_chunk$set(echo = TRUE)
 ###Definition/general:
 * Member of the steroid receptor superfamily; a transcription factor that regulates genes involved in gonadal and adrenal steroidogenesis
 * Present in pituitary and steroidogenic tissues:
-      + Anterior pituitary gonadotrophs, which produce luteinizing hormone (LH) or follicle-stimulating hormone (FSH); not found in other adenohypophyseal cell types [(J Clin Endocrinol Metab 1996;81:2165)](https://www.ncbi.nlm.nih.gov/pubmed/8964846) 
+      + Anterior pituitary gonadotrophs, which produce luteinizing hormone (LH) or follicle-stimulating hormone (FSH); not found in other adenohypophyseal cell types  
       + Adrenal cortex 
       + Granulosa and theca cells of the ovary
-      + Leydig cells of the testis
+      + Sertoli and Leydig cells of the testis
 
 ###Essential features:
 *	Strong nuclear staining
@@ -39,7 +37,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ###Pathophysiology:
 * SF-1 has roles within the pituitary and periphery; it is necessary for the development of primary steroidogenic tissue (knockout mice lack adrenal and gonadal glands)
-* In the pituitary, SF-1 drives gonadotroph differentiation:
+* In the pituitary, SF-1 drives gonadotroph differentiation [(J Clin Endocrinol Metab 1996;81:2165)](https://www.ncbi.nlm.nih.gov/pubmed/8964846):
 
 ![](photos/Slide1.jpeg)
 
@@ -47,7 +45,6 @@ knitr::opts_chunk$set(echo = TRUE)
 
 * Gonadotroph adenomas comprise the largest category of pituitary adenomas [(Arch Pathol Lab Med 2017;141:104,](https://www.ncbi.nlm.nih.gov/pubmed/27227698) [ Mod Pathol 2018;31:900)](https://www.ncbi.nlm.nih.gov/pubmed/29434339)
 *	LH and FSH immunostains also mark gonadotroph adenomas, but are much less sensitive (althought quite specific) for gonadotroph adenomas [(Mod Pathol 2018;31:900)](https://www.ncbi.nlm.nih.gov/pubmed/29434339)
-
 * Some labs use alpha subunit of glycoprotein hormones or estrogen receptors to supplement gonadotroph tumor workup, but these lack both sensitivity and specificity [(Mod Pathol 2018;31:900)](https://www.ncbi.nlm.nih.gov/pubmed/29434339)
 
 ###Clinical features: 
@@ -58,9 +55,8 @@ knitr::opts_chunk$set(echo = TRUE)
 *	Useful for diagnosis of gonadotroph adenomas [(Arch Pathol Lab Med 2017;141:104,](https://www.ncbi.nlm.nih.gov/pubmed/27227698) [ Mod Pathol 2018;31:900)](https://www.ncbi.nlm.nih.gov/pubmed/29434339) 
     +	More sensitive than antibodies to LH and FSH [(Mod Pathol 2018;31:900)](https://www.ncbi.nlm.nih.gov/pubmed/29434339) 
     +	Also present within normal anterior pituitary gland, so the presence of pituitary adenoma must be confirmed on H&E stains (occasionally with the support of ancillary stains such as reticulin stains for normal adenohypophyseal architecture)
-*	Also a sensitive and specific marker of sex cord stromal tumors of the ovary, and can be used to distinguish these tumors from other types of ovarian tumor [(Int J Gynecol Pathol 2008;27:507,](https://www.ncbi.nlm.nih.gov/pubmed/18753972) [ Am J Surg Pathol 2009;33:354,](https://www.ncbi.nlm.nih.gov/pubmed/19033865)
-[ Int J Gynecol Pathol 2016;35:167,](https://www.ncbi.nlm.nih.gov/pubmed/26352548) [ Pathology 2016;48:434,](https://www.ncbi.nlm.nih.gov/pubmed/27311867) [ Int J Gynecol Pathol 2008;27:507)](https://www.ncbi.nlm.nih.gov/pubmed/18753972)
-* Also helpful in distinguishing adrenal cortical neoplasms from other tumor types [(Hum Pathol 2013;44:822,](https://www.ncbi.nlm.nih.gov/pubmed/23158211) [ Appl Immunohistochem Mol Morphol 2013;20:141,](https://www.ncbi.nlm.nih.gov/pubmed/22553814) [ Am J Surg Pathol 2010;34:423,](https://www.ncbi.nlm.nih.gov/pubmed/20154585) [ Am J Surg Pathol 2011;35:678,](https://www.ncbi.nlm.nih.gov/pubmed/21490444) [ J Clin Endocrinol Metab 2010 95:E161)](https://www.ncbi.nlm.nih.gov/pubmed/20660055)
+*	Also a sensitive and specific marker of sex cord stromal tumors of the ovary, and can be used to distinguish these tumors from other types of ovarian tumor [(Int J Gynecol Pathol 2008;27:507,](https://www.ncbi.nlm.nih.gov/pubmed/18753972) [ Am J Surg Pathol 2009;33:354,](https://www.ncbi.nlm.nih.gov/pubmed/19033865) [ Int J Gynecol Pathol 2016;35:167,](https://www.ncbi.nlm.nih.gov/pubmed/26352548) [ Pathology 2016;48:434,](https://www.ncbi.nlm.nih.gov/pubmed/27311867) [ Int J Gynecol Pathol 2008;27:507)](https://www.ncbi.nlm.nih.gov/pubmed/18753972)
+* Also helpful in distinguishing adrenal cortical neoplasms from other tumor types [(Hum Pathol 2013;44:822,](https://www.ncbi.nlm.nih.gov/pubmed/23158211) [ Appl Immunohistochem Mol Morphol 2013;20:141,](https://www.ncbi.nlm.nih.gov/pubmed/22553814) [ Am J Surg Pathol 2010;34:423,](https://www.ncbi.nlm.nih.gov/pubmed/20154585) [ Am J Surg Pathol 2011;35:678,](https://www.ncbi.nlm.nih.gov/pubmed/21490444) [ J Clin Endocrinol Metab 2010:95:E161)](https://www.ncbi.nlm.nih.gov/pubmed/20660055)
 * Also useful in the setting of testicular tumors [(Am J Surg Pathol 2015;39:1159,](https://www.ncbi.nlm.nih.gov/pubmed/26076062) [ Appl Immunohistochem Mol Morphol 2013;21:318)](https://www.ncbi.nlm.nih.gov/pubmed/23165333)
 
 ###Prognostic Factors:
@@ -118,16 +114,26 @@ knitr::opts_chunk$set(echo = TRUE)
 ###Positive staining (normal):
 * Scattered gonadotrophs in normal adenohypophysis[(J Clin Endocrinol Metab 1996;81:2165)](https://www.ncbi.nlm.nih.gov/pubmed/8964846)
 * Adrenal cortex [(Cell 1994;77:481)](https://www.ncbi.nlm.nih.gov/pubmed/%208187173)
+* Atrophic testis, cryptorchidism, normal testis [ Appl Immunohistochem Mol Morphol 2013;21:318)](https://www.ncbi.nlm.nih.gov/pubmed/23165333)
 
 ###Positive staining (tumors):
-* Gonadotroph pituitary adenomas
+* Gonadotroph pituitary adenomas [(Arch Pathol Lab Med 2017;141:104,](https://www.ncbi.nlm.nih.gov/pubmed/27227698) [ Mod Pathol 2018;31:900)](https://www.ncbi.nlm.nih.gov/pubmed/29434339) 
 * Rare plurihormonal pituitary adenomas
-* Sex cord-stromal tumors [(Histopathology 2013;62:71](https://www.ncbi.nlm.nih.gov/pubmed/23240671), [Int J Gynecol Pathol. 2008;27(4):507](https://www.ncbi.nlm.nih.gov/pubmed/18753972), [Am J Surg Pathol 2009;33:354)](https://www.ncbi.nlm.nih.gov/pubmed/19033865)
-* Adrenal cortical tumors
+* Sex cord-stromal tumors of ovary [(Histopathology 2013;62:71,](https://www.ncbi.nlm.nih.gov/pubmed/23240671)
+[( Int J Gynecol Pathol 2008;27:507,](https://www.ncbi.nlm.nih.gov/pubmed/18753972) [ Am J Surg Pathol 2009;33:354,](https://www.ncbi.nlm.nih.gov/pubmed/19033865)
+[ Int J Gynecol Pathol 2016;35:167,](https://www.ncbi.nlm.nih.gov/pubmed/26352548) [ Pathology 2016;48:434)](https://www.ncbi.nlm.nih.gov/pubmed/27311867) 
+* Sertoli and Leydig cell tumors of testis [(Appl Immunohistochem Mol Morphol 2013;21:318)](https://www.ncbi.nlm.nih.gov/pubmed/23165333)
+* Adrenal cortical tumors [(Hum Pathol 2013;44:822,](https://www.ncbi.nlm.nih.gov/pubmed/23158211) [ Appl Immunohistochem Mol Morphol 2013;20:141,](https://www.ncbi.nlm.nih.gov/pubmed/22553814) [ Am J Surg Pathol 2010;34:423,](https://www.ncbi.nlm.nih.gov/pubmed/20154585) [ Am J Surg Pathol 2011;35:678,](https://www.ncbi.nlm.nih.gov/pubmed/21490444) [ J Clin Endocrinol Metab 2010 95:E161)](https://www.ncbi.nlm.nih.gov/pubmed/20660055)
 
 ###Negative staining (normal):
 * Corticotrophs, Pit-1 family adenohypophysial cells (producing prolactin, growth hormone, TSH)
-* Pituitary adenomas in the Pit-1 family, corticotroph family
+
+###Negative staining (tumors):
+* Pituitary adenomas in the Pit-1 family, corticotroph family[(Arch Pathol Lab Med 2017;141:104,](https://www.ncbi.nlm.nih.gov/pubmed/27227698) [ Mod Pathol 2018;31:900)](https://www.ncbi.nlm.nih.gov/pubmed/29434339) 
+* Uterine tumors mimicking sex cord stromal tumors [(Pathology 2016;48:434)](https://www.ncbi.nlm.nih.gov/pubmed/27311867)
+* Nonsteroidogenic adrenal tumors [(J Clin Endocrinol Metab 2010 95:E161)](https://www.ncbi.nlm.nih.gov/pubmed/20660055), pheochromocytoma [(Am J Surg Pathol 2010;34:423)](https://www.ncbi.nlm.nih.gov/pubmed/20154585)
+* Testicular germ cell tumors [(Appl Immunohistochem Mol Morphol 2013;21:318)](https://www.ncbi.nlm.nih.gov/pubmed/23165333)
+* Endometrioid tumors and carcinoid [(Int J Gynecol Pathol 2008;27:507)](https://www.ncbi.nlm.nih.gov/pubmed/18753972)
 
 ###Board Review Question(s)
 A 57-year-old male presents with bitemporal hemianopsia, mildly elevated serum prolactin and MRI showing a 2.5 cm mass within the sella turcica, which is noted to extend upward and push on the optic chiasm. Physical examination reveals no signs of hormone excess (no evidence of gynecomastia, galactorrhea, Cushing's syndrome, acromegaly, etc.) and formal visual field testing confirms decreased vision in the outer half of the visual fields. Transsphenoidal resection confirms pituitary adenoma by routine stains. The adenoma shows the following immunoreactivity: SF-1 positive, Pit-1 negative, ACTH negative. 
