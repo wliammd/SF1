@@ -31,6 +31,9 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ###Essential features:
 *	Strong nuclear staining
+* Steroidogenic tissues from the pituitary to gonads and adrenal glands are labeled 
+* Within the pituitary, SF-1 is the stain of choice for gonadotrophic pituitary adenomas
+* SF-1 also useful in resolving difficult differential diagnoses for tumors involving the adrenal gland and gonads
 
 ###Terminology:
 *	Pituitary adenoma = “pituitary neuroendocrine tumor”  (PitNET) in 2017 proposal [(Endocr Relat Cancer 2017;24:C5)](https://www.ncbi.nlm.nih.gov/pubmed/28264912)
